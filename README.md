@@ -1,3 +1,5 @@
+This Repository consists of the Frond-End UI for the BuildNow Application, which is a project management Tool.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
